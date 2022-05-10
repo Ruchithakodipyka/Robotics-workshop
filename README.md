@@ -1,1 +1,1 @@
-# Robotics-workshop
+This is Ruchitha from btech 3rd year recently i had joined a workshop based on Robotics conducted by MR.Sai Krishna sir of surva labs. The session was interactive Yestarday he took class on introduction on Robotics.
